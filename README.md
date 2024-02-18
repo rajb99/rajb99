@@ -1,5 +1,4 @@
 ### Hi Developers !
-https://www.linkedin.com/in/bhavya-r-919a592a2/
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Bhavya-red)]()
 [![Linkedin Badge](https://img.shields.io/badge/-Bhavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-r-919a592a2/)](https://www.linkedin.com/in/bhavya-r-919a592a2/
