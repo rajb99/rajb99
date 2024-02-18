@@ -1,13 +1,11 @@
-### Hi Developers !
+### Hi Developers!
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Bhavya-red)]()
 [![Linkedin Badge](https://img.shields.io/badge/-Bhavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-r-919a592a2/)](https://www.linkedin.com/in/bhavya-r-919a592a2/
 )
 [![Website Badge](https://img.shields.io/badge/WebSite-Bhavya-green)]()
 
-I'm
-Tech geek
-So far building the foundation for web development.
+I'm a Tech geek, and so far building the foundation for web development.
 
 ![Visitor Count](https://profile-counter.glitch.me/rajb99/count.svg)
 
