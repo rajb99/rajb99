@@ -1,16 +1,16 @@
-### Hi Developers 👋
+### Hi Developers !
+https://www.linkedin.com/in/bhavya-r-919a592a2/
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-PoonamChauhan-red)](https://www.youtube.com/@ms.poonamchauhan743)
-[![Linkedin Badge](https://img.shields.io/badge/-Poonam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159/)](https://www.linkedin.com/in/poonam-chauhan-64a97159/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
-[![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Bhavya-red)]()
+[![Linkedin Badge](https://img.shields.io/badge/-Bhavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-r-919a592a2/)](https://www.linkedin.com/in/bhavya-r-919a592a2/
+)
+[![Website Badge](https://img.shields.io/badge/WebSite-Bhavya-green)]()
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
+Tech geek
+So far building the foundation for web development.
 
-
-![Visitor Count](https://profile-counter.glitch.me/poonamchauhan229/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rajb99/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
