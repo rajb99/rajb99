@@ -5,7 +5,7 @@
 )
 [![Website Badge](https://img.shields.io/badge/WebSite-Bhavya-green)]()
 
-I'm a Tech geek, and so far building the foundation for web development.
+I'm a Tech geek, and so far building the foundations of web development.
 
 ![Visitor Count](https://profile-counter.glitch.me/rajb99/count.svg)
 
